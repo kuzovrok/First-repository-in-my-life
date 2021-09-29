@@ -7,4 +7,8 @@ public class Audi extends Car {
         return "Audi";
     }
 
+    int getMaxSpeed() {
+        return 260;
+    }
+
 }
