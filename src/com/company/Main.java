@@ -24,7 +24,7 @@ public class Main {
         human1.print();
 
         Main main = new Main();
-        Car car = new Toyota();
+        Car car = new Audi();
         main.userCar(car);
 
     }
